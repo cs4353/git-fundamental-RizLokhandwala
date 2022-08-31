@@ -6,5 +6,5 @@ This is a sample markdown file for the optional next step.
 
 Some more things I learned:
 * I learned how to make a bullet list
-* [How to make embed a hyperlink] (https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
+* [How to make embed a hyperlink](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
