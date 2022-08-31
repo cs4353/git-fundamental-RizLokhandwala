@@ -9,6 +9,7 @@ Some more things I learned:
 * [How to make an embeded hyperlink](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
 I also learned how to make a numbered list:
-1. Item One
-2. Item Two
-3. Item Three
+1. **Item One is bolded**
+2. *Item Two is Italicized*
+3. ~~Item Three is crossed off~~
+4. W<sub>o</sub>a<sup>h</sup> T<sup>h</sup>i<sub>s</sub> <sup>i</sup><sub>s</sub> w<sup>e<sup>i<sup>r<sup>d</sup></sup></sup></sup>
