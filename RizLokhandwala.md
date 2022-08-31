@@ -13,3 +13,20 @@ I also learned how to make a numbered list:
 2. *Item Two is Italicized*
 3. ~~Item Three is crossed off~~
 4. W<sub>o</sub>a<sup>h</sup> T<sup>h</sup>i<sub>s</sub> <sup>i</sup><sub>s</sub> w<sup>e<sup>i<sub>r</sub><sup>d</sup></sup></sup>
+
+-[] This is an Issue!
+-[x] This is no longer an Issue!
+-[x] give credit to sources[^1].
+
+@alipourm Here's my markdown. Hope this ping doesn't disturb you.
+@RizLokhandwala can I ping myself?
+
+Here's a random quote to sign off!
+
+> The busy man is least busy with living. -Seneca[^2]
+
+![Apparently this is Seneca, but i highly doubt he was this good looking...](https://en.wikipedia.org/wiki/Seneca_the_Younger)
+
+[^1]: [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+
+[^2]: [Get your free random quote here!](https://coda.io/@mark-davis/random-quote)
