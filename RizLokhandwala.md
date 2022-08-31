@@ -31,3 +31,4 @@ Apparently this is Seneca, but i highly doubt he was this good looking...
 [^1]: [GitHub Docs](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 [^2]: [Get your free random quote here!](https://coda.io/@mark-davis/random-quote)
+
