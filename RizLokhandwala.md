@@ -14,7 +14,7 @@ I also learned how to make a numbered list:
 3. ~~Item Three is crossed off~~
 4. W<sub>o</sub>a<sup>h</sup> T<sup>h</sup>i<sub>s</sub> <sup>i</sup><sub>s</sub> w<sup>e<sup>i<sub>r</sub><sup>d</sup></sup></sup>
 
-- [] This is an unresolved issue!
+- [ ] This is an unresolved issue!
 - [x] give credit to sources[^1].
 
 @alipourm Here's my markdown. Hope this ping doesn't disturb you.
