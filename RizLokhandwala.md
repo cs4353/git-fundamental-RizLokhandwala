@@ -12,4 +12,4 @@ I also learned how to make a numbered list:
 1. **Item One is bolded**
 2. *Item Two is Italicized*
 3. ~~Item Three is crossed off~~
-4. W<sub>o</sub>a<sup>h</sup> T<sup>h</sup>i<sub>s</sub> <sup>i</sup><sub>s</sub> w<sup>e<sup>i<sub>r<sup>d</sup></sup></sub></sup>
+4. W<sub>o</sub>a<sup>h</sup> T<sup>h</sup>i<sub>s</sub> <sup>i</sup><sub>s</sub> w<sup>e<sup>i<sub>r<sup>d</sup></sub></sup></sup>
