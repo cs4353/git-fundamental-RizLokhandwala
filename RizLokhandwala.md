@@ -8,3 +8,7 @@ Some more things I learned:
 * I learned how to make a bullet list
 * [How to make an embeded hyperlink](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#links)
 
+I also learned how to make a numbered list:
+1. Item One
+2. Item Two
+3. Item Three
